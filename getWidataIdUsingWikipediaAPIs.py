@@ -38,7 +38,7 @@ def process_json(input_json, language='en'):
     
     # for each object in the JSON
     for item in input_json:
-        new_item = {"keywords": []}  # Nuovo oggetto da popolare
+        new_item = {"entities": []}  # new object to populate
         
         # checks if the key "keywords" exists
         if "keywords" in item:
@@ -53,7 +53,7 @@ def process_json(input_json, language='en'):
                     wikidata_id = get_wikidata_entity_from_wikipedia_title(language, wikipedia_label)
                     
                     if wikidata_id: 
-                        new_item["keywords"].append({
+                        new_item["entities"].append({
                             "originalKey": keyword_in_the_text,
                             "original_value": wikipedia_label,
                             "Wikidata_ID": wikidata_id
