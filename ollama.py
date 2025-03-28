@@ -1,3 +1,7 @@
+"""
+To run the script, install Ollama: https://ollama.com/
+"""
+
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.llms import Ollama
@@ -73,7 +77,7 @@ def aggiorna_file_json(nuovi_dati, percorso_file):
         json.dump(dati_esistenti, file, ensure_ascii=False, indent=4)
 
 
-# prompt approach 1
+# prompt 1
 systemPrompt= """recognize the keywords in the text and, for each of them, find the Wikidata ID. The final result should be a json like this:
 
 ### Json
@@ -94,50 +98,50 @@ systemPrompt= """recognize the keywords in the text and, for each of them, find 
 Answer only with the json
 """
 
-# prompt approach 2
-systemPrompt= """recognize the keywords in the text. The final result should be a json like this:
+# prompt 2
+# systemPrompt= """recognize the keywords in the text. The final result should be a json like this:
 
-### Json
-    {
-        "keywords": [
-            {
-                "keyword_in_the_text": "..."
-            },
-            {
-                "keyword_in_the_text": "..."
-            }
-            ...
-        ]
-    }
+# ### Json
+    # {
+        # "keywords": [
+            # {
+                # "keyword_in_the_text": "..."
+            # },
+            # {
+                # "keyword_in_the_text": "..."
+            # }
+            # ...
+        # ]
+    # }
 
-Answer only with the json
-"""
+# Answer only with the json
+# """
 
-# prompt approach 3
-systemPrompt= """
-###keyword's definition 
-A keyword is a key element extracted from texts. There are four distinct roles for the keywords: (1) terminology, referring to specialized lexical items within a specific domain; (2) topics, encompassing terms and labels within systematic concept systems like knowledge bases, such as Wikidata; (3) index terms, which highlight major concepts, events, or individuals, including named entities; and (4) summary terms, designed to provide a concise description of the content.
+# prompt 3
+# systemPrompt= """
+# ###keyword's definition 
+# A keyword is a key element extracted from texts. There are four distinct roles for the keywords: (1) terminology, referring to specialized lexical items within a specific domain; (2) topics, encompassing terms and labels within systematic concept systems like knowledge bases, such as Wikidata; (3) index terms, which highlight major concepts, events, or individuals, including named entities; and (4) summary terms, designed to provide a concise description of the content.
 
-###request
-Basing on the provided keyword's definition, recognize the keywords in the text and, for each of them, find the exact title corresponding to the Wikipedia page. The final result should be a json like this:
+# ###request
+# Basing on the provided keyword's definition, recognize the keywords in the text and, for each of them, find the exact title corresponding to the Wikipedia page. The final result should be a json like this:
 
-### Json
-    {
-        "keywords": [
-            {
-                "keyword_in_the_text": "...",
-                "wikipedia_title": "..."
-            },
-            {
-                "keyword_in_the_text": "...",
-                "wikipedia_title": "..."
-            }
-            ...
-        ]
-    }
+# ### Json
+    # {
+        # "keywords": [
+            # {
+                # "keyword_in_the_text": "...",
+                # "wikipedia_title": "..."
+            # },
+            # {
+                # "keyword_in_the_text": "...",
+                # "wikipedia_title": "..."
+            # }
+            # ...
+        # ]
+    # }
 
-Answer only with the json
-"""
+# Answer only with the json
+# """
 
 
 directory= "selected_MOVING_narratives/"
