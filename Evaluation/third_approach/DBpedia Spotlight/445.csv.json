@@ -1,0 +1,466 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identity document",
+                "DBpedia_URI": "http://dbpedia.org/resource/Identity_document",
+                "Wikidata_ID": "Q47988"
+            },
+            {
+                "originalKey": "TR",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "TURKSTAT",
+                "original_value": "Turkish Statistical Institute",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkish_Statistical_Institute",
+                "Wikidata_ID": "Q1375058"
+            },
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Mugla",
+                "original_value": "Muğla",
+                "DBpedia_URI": "http://dbpedia.org/resource/Muğla",
+                "Wikidata_ID": "Q216912"
+            },
+            {
+                "originalKey": "hives",
+                "original_value": "Beehive",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beehive",
+                "Wikidata_ID": "Q110714724"
+            },
+            {
+                "originalKey": "migratory",
+                "original_value": "Human migration",
+                "DBpedia_URI": "http://dbpedia.org/resource/Human_migration",
+                "Wikidata_ID": "Q177626"
+            },
+            {
+                "originalKey": "beekeepers",
+                "original_value": "Beekeeper",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeper",
+                "Wikidata_ID": "Q852389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Menteşe",
+                "original_value": "Menteshe",
+                "DBpedia_URI": "http://dbpedia.org/resource/Menteshe",
+                "Wikidata_ID": "Q1400572"
+            },
+            {
+                "originalKey": "Ula",
+                "original_value": "Ula oil field",
+                "DBpedia_URI": "http://dbpedia.org/resource/Ula_oil_field",
+                "Wikidata_ID": "Q4574681"
+            },
+            {
+                "originalKey": "Muğla province",
+                "original_value": "Muğla Province",
+                "DBpedia_URI": "http://dbpedia.org/resource/Muğla_Province",
+                "Wikidata_ID": "Q123934"
+            },
+            {
+                "originalKey": "Mediterranean climate",
+                "original_value": "Mediterranean climate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mediterranean_climate",
+                "Wikidata_ID": "Q13996"
+            },
+            {
+                "originalKey": "Muğla",
+                "original_value": "Muğla",
+                "DBpedia_URI": "http://dbpedia.org/resource/Muğla",
+                "Wikidata_ID": "Q216912"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate",
+                "Wikidata_ID": "Q7937"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "Medium",
+                "original_value": "Mediumship",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mediumship",
+                "Wikidata_ID": "Q583271"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "producer",
+                "original_value": "Record producer",
+                "DBpedia_URI": "http://dbpedia.org/resource/Record_producer",
+                "Wikidata_ID": "Q183945"
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "original_value": "Geographical indication",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "Turkish",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "functional food",
+                "original_value": "Functional food",
+                "DBpedia_URI": "http://dbpedia.org/resource/Functional_food",
+                "Wikidata_ID": "Q752276"
+            },
+            {
+                "originalKey": "medicine",
+                "original_value": "Medicine",
+                "DBpedia_URI": "http://dbpedia.org/resource/Medicine",
+                "Wikidata_ID": "Q11190"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "Beekeeping",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Muğla Province",
+                "original_value": "Muğla Province",
+                "DBpedia_URI": "http://dbpedia.org/resource/Muğla_Province",
+                "Wikidata_ID": "Q123934"
+            },
+            {
+                "originalKey": "Muğla",
+                "original_value": "Muğla",
+                "DBpedia_URI": "http://dbpedia.org/resource/Muğla",
+                "Wikidata_ID": "Q216912"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climatic",
+                "original_value": "Climate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "migratory",
+                "original_value": "Bird migration",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bird_migration",
+                "Wikidata_ID": "Q216507"
+            },
+            {
+                "originalKey": "beekeeper",
+                "original_value": "Beekeeper",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeper",
+                "Wikidata_ID": "Q852389"
+            },
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rainforest Alliance",
+                "original_value": "Rainforest Alliance",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rainforest_Alliance",
+                "Wikidata_ID": "Q2034373"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tea",
+                "Wikidata_ID": "Q6097"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "MRLs",
+                "original_value": "Multiple rocket launcher",
+                "DBpedia_URI": "http://dbpedia.org/resource/Multiple_rocket_launcher",
+                "Wikidata_ID": "Q506219"
+            },
+            {
+                "originalKey": "Switzerland",
+                "original_value": "Switzerland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "DBpedia_URI": "http://dbpedia.org/resource/United_Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Republic",
+                "original_value": "Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Republic",
+                "Wikidata_ID": "Q7270"
+            },
+            {
+                "originalKey": "France",
+                "original_value": "France",
+                "DBpedia_URI": "http://dbpedia.org/resource/France",
+                "Wikidata_ID": "Q142"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greece",
+                "Wikidata_ID": "Q194327"
+            },
+            {
+                "originalKey": "Hungary",
+                "original_value": "Hungary",
+                "DBpedia_URI": "http://dbpedia.org/resource/Hungary",
+                "Wikidata_ID": "Q28"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "North Macedonia",
+                "original_value": "North Macedonia",
+                "DBpedia_URI": "http://dbpedia.org/resource/North_Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "Romania",
+                "original_value": "Romania",
+                "DBpedia_URI": "http://dbpedia.org/resource/Romania",
+                "Wikidata_ID": "Q1064023"
+            },
+            {
+                "originalKey": "Serbia",
+                "original_value": "Serbia",
+                "DBpedia_URI": "http://dbpedia.org/resource/Serbia",
+                "Wikidata_ID": "Q269864"
+            },
+            {
+                "originalKey": "Slovakia",
+                "original_value": "Slovakia",
+                "DBpedia_URI": "http://dbpedia.org/resource/Slovakia",
+                "Wikidata_ID": "Q1751495"
+            },
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "DBpedia_URI": "http://dbpedia.org/resource/Spain",
+                "Wikidata_ID": "Q29"
+            }
+        ]
+    }
+]

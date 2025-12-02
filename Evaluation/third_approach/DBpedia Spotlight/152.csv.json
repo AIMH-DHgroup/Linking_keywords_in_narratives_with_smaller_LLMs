@@ -1,0 +1,324 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Idaho",
+                "DBpedia_URI": "http://dbpedia.org/resource/Idaho",
+                "Wikidata_ID": "Q1221"
+            },
+            {
+                "originalKey": "IT",
+                "original_value": "Information technology",
+                "DBpedia_URI": "http://dbpedia.org/resource/Information_technology",
+                "Wikidata_ID": "Q11661"
+            },
+            {
+                "originalKey": "aromatic",
+                "original_value": "Aromaticity",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aromaticity",
+                "Wikidata_ID": "Q210390"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "equilibrium",
+                "original_value": "Chemical equilibrium",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chemical_equilibrium",
+                "Wikidata_ID": "Q189520"
+            },
+            {
+                "originalKey": "infusion",
+                "original_value": "Infusion",
+                "DBpedia_URI": "http://dbpedia.org/resource/Infusion",
+                "Wikidata_ID": "Q61951"
+            },
+            {
+                "originalKey": "life cycle",
+                "original_value": "Biological life cycle",
+                "DBpedia_URI": "http://dbpedia.org/resource/Biological_life_cycle",
+                "Wikidata_ID": "Q513359"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Province of Vercelli",
+                "DBpedia_URI": "http://dbpedia.org/resource/Province_of_Vercelli",
+                "Wikidata_ID": "Q15096"
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Apennine Mountains",
+                "DBpedia_URI": "http://dbpedia.org/resource/Apennine_Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan",
+                "original_value": "Tuscany",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tuscany",
+                "Wikidata_ID": "Q1273"
+            },
+            {
+                "originalKey": "Emilian",
+                "original_value": "Emilia-Romagna",
+                "DBpedia_URI": "http://dbpedia.org/resource/Emilia-Romagna",
+                "Wikidata_ID": "Q1135779"
+            },
+            {
+                "originalKey": "Anghiari",
+                "original_value": "Anghiari",
+                "DBpedia_URI": "http://dbpedia.org/resource/Anghiari",
+                "Wikidata_ID": "Q52063"
+            },
+            {
+                "originalKey": "hill town",
+                "original_value": "Hill town",
+                "DBpedia_URI": "http://dbpedia.org/resource/Hill_town",
+                "Wikidata_ID": "Q5762461"
+            },
+            {
+                "originalKey": "municipality",
+                "original_value": "Municipality",
+                "DBpedia_URI": "http://dbpedia.org/resource/Municipality",
+                "Wikidata_ID": "Q515"
+            },
+            {
+                "originalKey": "Arezzo",
+                "original_value": "Province of Arezzo",
+                "DBpedia_URI": "http://dbpedia.org/resource/Province_of_Arezzo",
+                "Wikidata_ID": "Q16115"
+            },
+            {
+                "originalKey": "Tuscany",
+                "original_value": "Tuscany",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tuscany",
+                "Wikidata_ID": "Q1273"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Umbria",
+                "original_value": "Umbria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Umbria",
+                "Wikidata_ID": "Q1280"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "UE",
+                "original_value": "User equipment",
+                "DBpedia_URI": "http://dbpedia.org/resource/User_equipment",
+                "Wikidata_ID": "Q3552547"
+            },
+            {
+                "originalKey": "organic farm",
+                "original_value": "Organic farming",
+                "DBpedia_URI": "http://dbpedia.org/resource/Organic_farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "herb",
+                "original_value": "Herb",
+                "DBpedia_URI": "http://dbpedia.org/resource/Herb",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Apennine Mountains",
+                "DBpedia_URI": "http://dbpedia.org/resource/Apennine_Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "city",
+                "original_value": "City",
+                "DBpedia_URI": "http://dbpedia.org/resource/City",
+                "Wikidata_ID": "Q515"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "aromatic",
+                "original_value": "Essential oil",
+                "DBpedia_URI": "http://dbpedia.org/resource/Essential_oil",
+                "Wikidata_ID": "Q170885"
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Apennine Mountains",
+                "DBpedia_URI": "http://dbpedia.org/resource/Apennine_Mountains",
+                "Wikidata_ID": "Q1285"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "aromatic",
+                "original_value": "Essential oil",
+                "DBpedia_URI": "http://dbpedia.org/resource/Essential_oil",
+                "Wikidata_ID": "Q170885"
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Apennine Mountains",
+                "DBpedia_URI": "http://dbpedia.org/resource/Apennine_Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "aromatic",
+                "original_value": "Aromaticity",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aromaticity",
+                "Wikidata_ID": "Q210390"
+            }
+        ]
+    }
+]
