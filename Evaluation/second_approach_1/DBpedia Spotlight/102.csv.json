@@ -1,0 +1,508 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greece",
+                "Wikidata_ID": "Q194327"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identity document",
+                "DBpedia_URI": "http://dbpedia.org/resource/Identity_document",
+                "Wikidata_ID": "Q47988"
+            },
+            {
+                "originalKey": "GR",
+                "original_value": "Greece",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greece",
+                "Wikidata_ID": "Q194327"
+            },
+            {
+                "originalKey": "beekeepers",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "EU",
+                "original_value": "European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/European_Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "Geographical Indications",
+                "original_value": "Geographical indication",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "GIs",
+                "original_value": "G.I.",
+                "DBpedia_URI": "http://dbpedia.org/resource/G.I.",
+                "Wikidata_ID": "Q1485700"
+            },
+            {
+                "originalKey": "socio-ecological system",
+                "original_value": "Socio-ecological system",
+                "DBpedia_URI": "http://dbpedia.org/resource/Socio-ecological_system",
+                "Wikidata_ID": "Q7552762"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "gastronomy",
+                "original_value": "Gastronomy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gastronomy",
+                "Wikidata_ID": "Q171141"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "White Mountains",
+                "original_value": "Lefka Ori",
+                "DBpedia_URI": "http://dbpedia.org/resource/Lefka_Ori",
+                "Wikidata_ID": "Q1137982"
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Kissamos",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "massif",
+                "original_value": "Massif",
+                "DBpedia_URI": "http://dbpedia.org/resource/Massif",
+                "Wikidata_ID": "Q1061151"
+            },
+            {
+                "originalKey": "flora",
+                "original_value": "Flora",
+                "DBpedia_URI": "http://dbpedia.org/resource/Flora",
+                "Wikidata_ID": "Q756"
+            },
+            {
+                "originalKey": "fauna",
+                "original_value": "Fauna",
+                "DBpedia_URI": "http://dbpedia.org/resource/Fauna",
+                "Wikidata_ID": "Q104021"
+            },
+            {
+                "originalKey": "species",
+                "original_value": "Species",
+                "DBpedia_URI": "http://dbpedia.org/resource/Species",
+                "Wikidata_ID": "Q7432"
+            },
+            {
+                "originalKey": "endemic",
+                "original_value": "Endemism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Endemism",
+                "Wikidata_ID": "Q123452"
+            },
+            {
+                "originalKey": "stenoendemic",
+                "original_value": "Endemism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Endemism",
+                "Wikidata_ID": "Q123452"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "mountain range",
+                "original_value": "Mountain range",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mountain_range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "chestnuts",
+                "original_value": "Chestnut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chestnut",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "aquatic",
+                "original_value": "Aquatic plant",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aquatic_plant",
+                "Wikidata_ID": "Q186101"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kissamos",
+                "original_value": "Kissamos",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "PDO",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indications_and_traditional_specialities_in_the_European_Union",
+                "Wikidata_ID": "Q3104453"
+            },
+            {
+                "originalKey": "thyme",
+                "original_value": "Thyme",
+                "DBpedia_URI": "http://dbpedia.org/resource/Thyme",
+                "Wikidata_ID": "Q3215980"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "aromatic",
+                "original_value": "Essential oil",
+                "DBpedia_URI": "http://dbpedia.org/resource/Essential_oil",
+                "Wikidata_ID": "Q170885"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "beekeepers",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Kissamos",
+                "original_value": "Kissamos",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Minoan Civilization",
+                "original_value": "Minoan civilization",
+                "DBpedia_URI": "http://dbpedia.org/resource/Minoan_civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "BC",
+                "original_value": "Anno Domini",
+                "DBpedia_URI": "http://dbpedia.org/resource/Anno_Domini",
+                "Wikidata_ID": "Q159791"
+            },
+            {
+                "originalKey": "poetry",
+                "original_value": "Poetry",
+                "DBpedia_URI": "http://dbpedia.org/resource/Poetry",
+                "Wikidata_ID": "Q482"
+            },
+            {
+                "originalKey": "jewellery",
+                "original_value": "Jewellery",
+                "DBpedia_URI": "http://dbpedia.org/resource/Jewellery",
+                "Wikidata_ID": "Q161439"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "pine tree",
+                "original_value": "Pine",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pine",
+                "Wikidata_ID": "Q12024"
+            },
+            {
+                "originalKey": "outflow",
+                "original_value": "Tropical cyclone",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tropical_cyclone",
+                "Wikidata_ID": "Q8092"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "severe weather",
+                "original_value": "Severe weather",
+                "DBpedia_URI": "http://dbpedia.org/resource/Severe_weather",
+                "Wikidata_ID": "Q741507"
+            },
+            {
+                "originalKey": "heat waves",
+                "original_value": "Heat wave",
+                "DBpedia_URI": "http://dbpedia.org/resource/Heat_wave",
+                "Wikidata_ID": "Q215864"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "pesticides",
+                "original_value": "Pesticide",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "adulteration",
+                "original_value": "Adulterant",
+                "DBpedia_URI": "http://dbpedia.org/resource/Adulterant",
+                "Wikidata_ID": "Q1658591"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "PDO",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indications_and_traditional_specialities_in_the_European_Union",
+                "Wikidata_ID": "Q3104453"
+            },
+            {
+                "originalKey": "Kissamos",
+                "original_value": "Kissamos",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greece",
+                "Wikidata_ID": "Q194327"
+            },
+            {
+                "originalKey": "EU",
+                "original_value": "European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/European_Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            }
+        ]
+    }
+]
