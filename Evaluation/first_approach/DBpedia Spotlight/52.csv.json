@@ -1,0 +1,400 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Czech_Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identity document",
+                "DBpedia_URI": "http://dbpedia.org/resource/Identity_document",
+                "Wikidata_ID": "Q47988"
+            },
+            {
+                "originalKey": "CZ",
+                "original_value": "Czech Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Czech_Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "fruit",
+                "original_value": "Fruit",
+                "DBpedia_URI": "http://dbpedia.org/resource/Fruit",
+                "Wikidata_ID": "Q1364"
+            },
+            {
+                "originalKey": "niche market",
+                "original_value": "Niche market",
+                "DBpedia_URI": "http://dbpedia.org/resource/Niche_market",
+                "Wikidata_ID": "Q1758705"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "SES",
+                "original_value": "SES S.A.",
+                "DBpedia_URI": "http://dbpedia.org/resource/SES_S.A.",
+                "Wikidata_ID": "Q333025"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tourism",
+                "Wikidata_ID": "Q49389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Klatovy",
+                "original_value": "Klatovy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Klatovy",
+                "Wikidata_ID": "Q602976"
+            },
+            {
+                "originalKey": "wheat",
+                "original_value": "Wheat",
+                "DBpedia_URI": "http://dbpedia.org/resource/Wheat",
+                "Wikidata_ID": "Q12106"
+            },
+            {
+                "originalKey": "rape",
+                "original_value": "Rapeseed",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rapeseed",
+                "Wikidata_ID": "Q177932"
+            },
+            {
+                "originalKey": "Upper",
+                "original_value": "Upper Franconia",
+                "DBpedia_URI": "http://dbpedia.org/resource/Upper_Franconia",
+                "Wikidata_ID": "Q10554"
+            },
+            {
+                "originalKey": "potato",
+                "original_value": "Potato",
+                "DBpedia_URI": "http://dbpedia.org/resource/Potato",
+                "Wikidata_ID": "Q10998"
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "DBpedia_URI": "http://dbpedia.org/resource/Germany",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "altitude",
+                "original_value": "Altitude",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altitude",
+                "Wikidata_ID": "Q190200"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Beekeeping",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "anthropogenic",
+                "original_value": "Human impact on the environment",
+                "DBpedia_URI": "http://dbpedia.org/resource/Human_impact_on_the_environment",
+                "Wikidata_ID": "Q574376"
+            },
+            {
+                "originalKey": "ecology",
+                "original_value": "Ecology",
+                "DBpedia_URI": "http://dbpedia.org/resource/Ecology",
+                "Wikidata_ID": "Q188847"
+            },
+            {
+                "originalKey": "bee keepers",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "credence goods",
+                "original_value": "SEC classification of goods and services",
+                "DBpedia_URI": "http://dbpedia.org/resource/SEC_classification_of_goods_and_services",
+                "Wikidata_ID": "Q56277706"
+            },
+            {
+                "originalKey": "preposition",
+                "original_value": "Preposition and postposition",
+                "DBpedia_URI": "http://dbpedia.org/resource/Preposition_and_postposition",
+                "Wikidata_ID": "Q134316"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The producers",
+                "original_value": "The Producers (musical)",
+                "DBpedia_URI": "http://dbpedia.org/resource/The_Producers_(musical)",
+                "Wikidata_ID": "Q1751433"
+            },
+            {
+                "originalKey": "ecosystem",
+                "original_value": "Ecosystem",
+                "DBpedia_URI": "http://dbpedia.org/resource/Ecosystem",
+                "Wikidata_ID": "Q37813"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "bee-keepers",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "pressure",
+                "original_value": "Pressure",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pressure",
+                "Wikidata_ID": "Q39552"
+            },
+            {
+                "originalKey": "beekeepers",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "global climate change",
+                "original_value": "Climate change",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate_change",
+                "Wikidata_ID": "Q7942"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate_change",
+                "Wikidata_ID": "Q7942"
+            },
+            {
+                "originalKey": "organic standards",
+                "original_value": "Organic certification",
+                "DBpedia_URI": "http://dbpedia.org/resource/Organic_certification",
+                "Wikidata_ID": "Q11680670"
+            },
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "varroa",
+                "original_value": "Varroa",
+                "DBpedia_URI": "http://dbpedia.org/resource/Varroa",
+                "Wikidata_ID": "Q1766457"
+            },
+            {
+                "originalKey": "chemical",
+                "original_value": "Chemical substance",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chemical_substance",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "rely",
+                "original_value": "Chery",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chery",
+                "Wikidata_ID": "Q591001"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Republic",
+                "original_value": "Republic of Ireland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Republic_of_Ireland",
+                "Wikidata_ID": "Q20283873"
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    }
+]
