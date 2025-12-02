@@ -1,0 +1,472 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greece",
+                "Wikidata_ID": "Q194327"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identity document",
+                "DBpedia_URI": "http://dbpedia.org/resource/Identity_document",
+                "Wikidata_ID": "Q47988"
+            },
+            {
+                "originalKey": "GR",
+                "original_value": "Greece",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greece",
+                "Wikidata_ID": "Q194327"
+            },
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chestnut",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "local government",
+                "original_value": "Local government",
+                "DBpedia_URI": "http://dbpedia.org/resource/Local_government",
+                "Wikidata_ID": "Q19799234"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "standardization",
+                "original_value": "Standardization",
+                "DBpedia_URI": "http://dbpedia.org/resource/Standardization",
+                "Wikidata_ID": "Q30919981"
+            },
+            {
+                "originalKey": "packaging",
+                "original_value": "Packaging and labeling",
+                "DBpedia_URI": "http://dbpedia.org/resource/Packaging_and_labeling",
+                "Wikidata_ID": "Q207822"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "White Mountains",
+                "original_value": "Lefka Ori",
+                "DBpedia_URI": "http://dbpedia.org/resource/Lefka_Ori",
+                "Wikidata_ID": "Q1137982"
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Kissamos",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "massif",
+                "original_value": "Massif",
+                "DBpedia_URI": "http://dbpedia.org/resource/Massif",
+                "Wikidata_ID": "Q1061151"
+            },
+            {
+                "originalKey": "flora",
+                "original_value": "Flora",
+                "DBpedia_URI": "http://dbpedia.org/resource/Flora",
+                "Wikidata_ID": "Q756"
+            },
+            {
+                "originalKey": "fauna",
+                "original_value": "Fauna",
+                "DBpedia_URI": "http://dbpedia.org/resource/Fauna",
+                "Wikidata_ID": "Q104021"
+            },
+            {
+                "originalKey": "species",
+                "original_value": "Species",
+                "DBpedia_URI": "http://dbpedia.org/resource/Species",
+                "Wikidata_ID": "Q7432"
+            },
+            {
+                "originalKey": "endemic",
+                "original_value": "Endemism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Endemism",
+                "Wikidata_ID": "Q123452"
+            },
+            {
+                "originalKey": "stenoendemic",
+                "original_value": "Endemism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Endemism",
+                "Wikidata_ID": "Q123452"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "mountain range",
+                "original_value": "Mountain range",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mountain_range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "chestnuts",
+                "original_value": "Castanea sativa",
+                "DBpedia_URI": "http://dbpedia.org/resource/Castanea_sativa",
+                "Wikidata_ID": "Q22699"
+            },
+            {
+                "originalKey": "aquatic",
+                "original_value": "Aquatic plant",
+                "DBpedia_URI": "http://dbpedia.org/resource/Aquatic_plant",
+                "Wikidata_ID": "Q186101"
+            },
+            {
+                "originalKey": "chestnut",
+                "original_value": "Castanea sativa",
+                "DBpedia_URI": "http://dbpedia.org/resource/Castanea_sativa",
+                "Wikidata_ID": "Q22699"
+            },
+            {
+                "originalKey": "Chania international airport",
+                "original_value": "Chania International Airport",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chania_International_Airport",
+                "Wikidata_ID": "Q1232348"
+            },
+            {
+                "originalKey": "Souda",
+                "original_value": "Souda",
+                "DBpedia_URI": "http://dbpedia.org/resource/Souda",
+                "Wikidata_ID": "Q544242"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "800m",
+                "original_value": "800 metres",
+                "DBpedia_URI": "http://dbpedia.org/resource/800_metres",
+                "Wikidata_ID": "Q271008"
+            },
+            {
+                "originalKey": "Chania",
+                "original_value": "Chania",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chania",
+                "Wikidata_ID": "Q182299"
+            },
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chestnut",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "chestnuts",
+                "original_value": "Chestnut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chestnut",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "Greek",
+                "original_value": "Greek language",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greek_language",
+                "Wikidata_ID": "Q36510"
+            },
+            {
+                "originalKey": "Italian market",
+                "original_value": "Italian Market, Philadelphia",
+                "DBpedia_URI": "http://dbpedia.org/resource/Italian_Market,_Philadelphia",
+                "Wikidata_ID": "Q6092834"
+            },
+            {
+                "originalKey": "tree",
+                "original_value": "Tree",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tree",
+                "Wikidata_ID": "Q10884"
+            },
+            {
+                "originalKey": "cultural identity",
+                "original_value": "Cultural identity",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cultural_identity",
+                "Wikidata_ID": "Q1368367"
+            },
+            {
+                "originalKey": "olive oil",
+                "original_value": "Olive oil",
+                "DBpedia_URI": "http://dbpedia.org/resource/Olive_oil",
+                "Wikidata_ID": "Q93165"
+            },
+            {
+                "originalKey": "monoculture",
+                "original_value": "Monoculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Monoculture",
+                "Wikidata_ID": "Q220212"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Western",
+                "original_value": "Western culture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Western_culture",
+                "Wikidata_ID": "Q160381"
+            },
+            {
+                "originalKey": "White Mountains",
+                "original_value": "Lefka Ori",
+                "DBpedia_URI": "http://dbpedia.org/resource/Lefka_Ori",
+                "Wikidata_ID": "Q1137982"
+            },
+            {
+                "originalKey": "agro-tourism",
+                "original_value": "Agritourism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agritourism",
+                "Wikidata_ID": "Q1956672"
+            },
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chestnut",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "traditional knowledge",
+                "original_value": "Traditional knowledge",
+                "DBpedia_URI": "http://dbpedia.org/resource/Traditional_knowledge",
+                "Wikidata_ID": "Q1428168"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chestnut",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate_change",
+                "Wikidata_ID": "Q7942"
+            },
+            {
+                "originalKey": "olive oil",
+                "original_value": "Olive oil",
+                "DBpedia_URI": "http://dbpedia.org/resource/Olive_oil",
+                "Wikidata_ID": "Q93165"
+            },
+            {
+                "originalKey": "Greek",
+                "original_value": "Greek language",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greek_language",
+                "Wikidata_ID": "Q36510"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "chestnuts",
+                "original_value": "Chestnut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chestnut",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Grassland",
+                "Wikidata_ID": "Q1006733"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chestnut",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "DBpedia_URI": "http://dbpedia.org/resource/Crete",
+                "Wikidata_ID": "Q1267522"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "DBpedia_URI": "http://dbpedia.org/resource/Greece",
+                "Wikidata_ID": "Q194327"
+            }
+        ]
+    }
+]
