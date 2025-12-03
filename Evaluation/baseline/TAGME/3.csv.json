@@ -1,0 +1,1206 @@
+[
+    {
+        "text": "The MOVING reference member state of this VC (Value Chain) is AUSTRIA. The reference MOVING Card ID of this VC is VC 03 AT. The association links 12 farms, which are certified organic. Some of the processing is done individually, other within the cooperation. The products are mainly sold locally via small shops, through a joint shop, online, and through hotels.",
+        "keywords": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Motion (physics)",
+                "Wikidata_ID": "Q79782"
+            },
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "member state",
+                "original_value": "Member state of the European Union",
+                "Wikidata_ID": "Q185441"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Card",
+                "original_value": "Credit card",
+                "Wikidata_ID": "Q161380"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identity document",
+                "Wikidata_ID": "Q47988"
+            },
+            {
+                "originalKey": "association",
+                "original_value": "Trade association",
+                "Wikidata_ID": "Q2178147"
+            },
+            {
+                "originalKey": "farms",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "certified organic",
+                "original_value": "Organic certification",
+                "Wikidata_ID": "Q11680670"
+            },
+            {
+                "originalKey": "processing",
+                "original_value": "Food processing",
+                "Wikidata_ID": "Q627371"
+            },
+            {
+                "originalKey": "cooperation",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "products",
+                "original_value": "Product (business)",
+                "Wikidata_ID": "Q2424752"
+            },
+            {
+                "originalKey": "locally",
+                "original_value": "Local food",
+                "Wikidata_ID": "Q2674120"
+            },
+            {
+                "originalKey": "small",
+                "original_value": "Small business",
+                "Wikidata_ID": "Q1109680"
+            },
+            {
+                "originalKey": "shops",
+                "original_value": "Retail",
+                "Wikidata_ID": "Q126793"
+            },
+            {
+                "originalKey": "joint",
+                "original_value": "Joint venture",
+                "Wikidata_ID": "Q489209"
+            },
+            {
+                "originalKey": "shop, online",
+                "original_value": "Online shopping",
+                "Wikidata_ID": "Q212930"
+            },
+            {
+                "originalKey": "hotels",
+                "original_value": "Hotel",
+                "Wikidata_ID": "Q27686"
+            }
+        ]
+    },
+    {
+        "text": "The reference mountain chain of this VC is RR 11, Austrian Alps. The reference mountain landscape of this VC is Weiz (No: 617). The region Almenland (transl.: Styrian alpine pasture region) is one of the biggest connected pasture-regions in Europe (total 125 pastures, 36,6 km2). The pasture are between 1.200 and 1.500 m above sea level. The climate is characterized as humid, having a lot of thunderstorms. The rock formation is diverse, primarily limestone, further: phyllite, slate and greywacke.",
+        "keywords": [
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "RR",
+                "original_value": "List of Latin-script digraphs",
+                "Wikidata_ID": "Q14932387"
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Central Eastern Alps",
+                "Wikidata_ID": "Q190348"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz District",
+                "Wikidata_ID": "Q665571"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "transl",
+                "original_value": "Transliteration",
+                "Wikidata_ID": "Q134550"
+            },
+            {
+                "originalKey": "Styrian",
+                "original_value": "Styria",
+                "Wikidata_ID": "Q41358"
+            },
+            {
+                "originalKey": "alpine pasture",
+                "original_value": "Alpine transhumance",
+                "Wikidata_ID": "Q14774083"
+            },
+            {
+                "originalKey": "connected",
+                "original_value": "Halo 2 Original Soundtrack",
+                "Wikidata_ID": "Q5643316"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "1.500 m",
+                "original_value": "1500 metres",
+                "Wikidata_ID": "Q191691"
+            },
+            {
+                "originalKey": "above sea level",
+                "original_value": "Sea level",
+                "Wikidata_ID": "Q125465"
+            },
+            {
+                "originalKey": "sea level",
+                "original_value": "Sea level",
+                "Wikidata_ID": "Q125465"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "humid",
+                "original_value": "Humidity",
+                "Wikidata_ID": "Q180600"
+            },
+            {
+                "originalKey": "lot",
+                "original_value": "Lot (department)",
+                "Wikidata_ID": "Q12576"
+            },
+            {
+                "originalKey": "thunderstorms",
+                "original_value": "Thunderstorm",
+                "Wikidata_ID": "Q2857578"
+            },
+            {
+                "originalKey": "rock",
+                "original_value": "Rock (geology)",
+                "Wikidata_ID": "Q8063"
+            },
+            {
+                "originalKey": "rock formation",
+                "original_value": "Geological formation",
+                "Wikidata_ID": "Q736917"
+            },
+            {
+                "originalKey": "diverse",
+                "original_value": "Biodiversity",
+                "Wikidata_ID": "Q47041"
+            },
+            {
+                "originalKey": "limestone",
+                "original_value": "Limestone",
+                "Wikidata_ID": "Q23757"
+            },
+            {
+                "originalKey": "phyllite",
+                "original_value": "Phyllite",
+                "Wikidata_ID": "Q731880"
+            },
+            {
+                "originalKey": "slate",
+                "original_value": "Slate",
+                "Wikidata_ID": "Q207079"
+            },
+            {
+                "originalKey": "greywacke",
+                "original_value": "Greywacke",
+                "Wikidata_ID": "Q917545"
+            }
+        ]
+    },
+    {
+        "text": "The size of the area (km2) is 1098. The minimum altimetry of the LAU (Local Administrative Unit) is 464. The maximum altimetry of the LAU is 1720. The total population (in thousand) is 90.654. The population density (Inhabitants/km2) in the LAU is 82.56. The population change rate of the LAU in the last 10 years (%) has been 3.68%. The overall regional population density (Inhabitants/km2) is 76.28. The regional population change rate in the last 10 years (%) has been 3.30%.",
+        "keywords": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Terrain",
+                "Wikidata_ID": "Q186131"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "maximum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total order",
+                "Wikidata_ID": "Q369377"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "Inhabitants",
+                "original_value": "Residency (domicile)",
+                "Wikidata_ID": "Q2641256"
+            },
+            {
+                "originalKey": "population change",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "rate",
+                "original_value": "Derivative",
+                "Wikidata_ID": "Q29175"
+            },
+            {
+                "originalKey": "last",
+                "original_value": "Last (unit)",
+                "Wikidata_ID": "Q335897"
+            },
+            {
+                "originalKey": "10 years",
+                "original_value": "Anniversary",
+                "Wikidata_ID": "Q1062856"
+            },
+            {
+                "originalKey": "overall",
+                "original_value": "Overall",
+                "Wikidata_ID": "Q13383825"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "text": "The average per capita income (EUR/year) [Province] is 21444. The total Gross Value Added (GVA) (EUR million/year) [Province] is 8141. The primary sector share of total GVA/year [Province] is 11.77%. The secondary sector share of total GVA/year [Province] is 32.50%. The tertiary sector share of total GVA/year [Province] is 55.73%. The per capita income (EUR/year) [Region] is 21539. The total Gross Value Added (GVA) (EUR million/year) [Region] is 43050. The primary sector share of total GVA/year [Region] is 0.84%. The secondary sector share of total GVA/year [Region] is 35.12%. The tertiary sector share of total GVA/year [Region] is 64.04%.",
+        "keywords": [
+            {
+                "originalKey": "average",
+                "original_value": "Average",
+                "Wikidata_ID": "Q202785"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "text": "The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 4310. The regional (Region) share of total BPs/year is 2.77%. The number of agricultural holdings in the LAU is 4555. The nearest settlement with population over 100000 (km) is 30. In this region protected areas are present.",
+        "keywords": [
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "number",
+                "original_value": "Continent",
+                "Wikidata_ID": "Q5107"
+            },
+            {
+                "originalKey": "bed",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Basis point",
+                "Wikidata_ID": "Q750178"
+            },
+            {
+                "originalKey": "tourist",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "accommodations",
+                "original_value": "Lodging",
+                "Wikidata_ID": "Q5056668"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "is 2",
+                "original_value": "IS tank family",
+                "Wikidata_ID": "Q779903"
+            },
+            {
+                "originalKey": "agricultural",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometre",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            },
+            {
+                "originalKey": "present",
+                "original_value": "Holocene",
+                "Wikidata_ID": "Q25445"
+            }
+        ]
+    },
+    {
+        "text": "The primary sector share of total employment/year [Province] is 11.55%. The secondary sector share of total employment/year [Province] is 29.94%. The tertiary sector share of total employment/year [Province] is 58.50%. The primary sector share of total employment/year [Region] is 5.55%. The secondary sector share of total employment/year [Region] is 26.47%. The tertiary sector share of total employment/year [Region] is 67.99%.",
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "total employment",
+                "original_value": "Full employment",
+                "Wikidata_ID": "Q384136"
+            },
+            {
+                "originalKey": "employment",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "is 5",
+                "original_value": "Is 5",
+                "Wikidata_ID": "Q15119171"
+            }
+        ]
+    },
+    {
+        "text": "12 herb farmers from the Almenland Nature Park founded an association in order to jointly process and sell various products made from herbs under The 'Almenland Kräuter' brand. The herbs are grown in small-scale organic cultivation or collected in the wild nature. All are harvested by hand. They offer a large variety of different herbs and a wide range of products ranging from food and drinks to cosmetic and wellness products. First, the cooperation of the farmers by setting up an association is an interesting business model, secondly the product range is innovative. Finally they are well embedded in the regional development, and cooperate with the nature park, the local gastronomy and hotels, which promote their products, use and sell them. They offer educational/touristic programmes.",
+        "keywords": [
+            {
+                "originalKey": "herb",
+                "original_value": "Herb",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Farm",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "Nature Park",
+                "original_value": "National park",
+                "Wikidata_ID": "Q46169"
+            },
+            {
+                "originalKey": "association",
+                "original_value": "Trade association",
+                "Wikidata_ID": "Q2178147"
+            },
+            {
+                "originalKey": "order",
+                "original_value": "Order (biology)",
+                "Wikidata_ID": "Q36602"
+            },
+            {
+                "originalKey": "process",
+                "original_value": "Soap",
+                "Wikidata_ID": "Q34396"
+            },
+            {
+                "originalKey": "sell",
+                "original_value": "Sales",
+                "Wikidata_ID": "Q194189"
+            },
+            {
+                "originalKey": "products",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "herbs",
+                "original_value": "Herb",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "Kräuter",
+                "original_value": "Stefan Krauter",
+                "Wikidata_ID": "Q109229"
+            },
+            {
+                "originalKey": "brand",
+                "original_value": "Brand",
+                "Wikidata_ID": "Q431289"
+            },
+            {
+                "originalKey": "organic",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "cultivation",
+                "original_value": "Horticulture",
+                "Wikidata_ID": "Q48803"
+            },
+            {
+                "originalKey": "collected",
+                "original_value": "Plant collecting",
+                "Wikidata_ID": "Q7201504"
+            },
+            {
+                "originalKey": "wild",
+                "original_value": "Wildlife",
+                "Wikidata_ID": "Q241741"
+            },
+            {
+                "originalKey": "nature",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "harvested",
+                "original_value": "Rainwater harvesting",
+                "Wikidata_ID": "Q2137507"
+            },
+            {
+                "originalKey": "hand",
+                "original_value": "Hand",
+                "Wikidata_ID": "Q33767"
+            },
+            {
+                "originalKey": "variety",
+                "original_value": "Variety (botany)",
+                "Wikidata_ID": "Q767728"
+            },
+            {
+                "originalKey": "range",
+                "original_value": "Rangeland",
+                "Wikidata_ID": "Q3364870"
+            },
+            {
+                "originalKey": "products",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "food",
+                "original_value": "Food",
+                "Wikidata_ID": "Q2095"
+            },
+            {
+                "originalKey": "food and drinks",
+                "original_value": "Cuisine",
+                "Wikidata_ID": "Q1778821"
+            },
+            {
+                "originalKey": "cosmetic",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "wellness",
+                "original_value": "Health",
+                "Wikidata_ID": "Q12147"
+            },
+            {
+                "originalKey": "First",
+                "original_value": "First Amendment to the United States Constitution",
+                "Wikidata_ID": "Q12616"
+            },
+            {
+                "originalKey": "cooperation",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "setting",
+                "original_value": "Location (geography)",
+                "Wikidata_ID": "Q2221906"
+            },
+            {
+                "originalKey": "up",
+                "original_value": "Up (2009 film)",
+                "Wikidata_ID": "Q174811"
+            },
+            {
+                "originalKey": "association",
+                "original_value": "Voluntary association",
+                "Wikidata_ID": "Q48204"
+            },
+            {
+                "originalKey": "business model",
+                "original_value": "Business model",
+                "Wikidata_ID": "Q815823"
+            },
+            {
+                "originalKey": "range",
+                "original_value": "Rangeland",
+                "Wikidata_ID": "Q3364870"
+            },
+            {
+                "originalKey": "innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "embedded",
+                "original_value": "Embedded system",
+                "Wikidata_ID": "Q193040"
+            },
+            {
+                "originalKey": "regional development",
+                "original_value": "Regional development",
+                "Wikidata_ID": "Q482379"
+            },
+            {
+                "originalKey": "cooperate",
+                "original_value": "Cooperation",
+                "Wikidata_ID": "Q380962"
+            },
+            {
+                "originalKey": "nature park",
+                "original_value": "National park",
+                "Wikidata_ID": "Q46169"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "gastronomy",
+                "original_value": "Gastronomy",
+                "Wikidata_ID": "Q171141"
+            },
+            {
+                "originalKey": "hotels",
+                "original_value": "Hotel",
+                "Wikidata_ID": "Q27686"
+            },
+            {
+                "originalKey": "promote",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "sell",
+                "original_value": "Sales",
+                "Wikidata_ID": "Q194189"
+            },
+            {
+                "originalKey": "educational",
+                "original_value": "Education",
+                "Wikidata_ID": "Q8434"
+            },
+            {
+                "originalKey": "touristic",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "programmes",
+                "original_value": "Program management",
+                "Wikidata_ID": "Q603948"
+            }
+        ]
+    },
+    {
+        "text": "The initiative is well embedded in the regional development strategy of Almenland 'Genussregion ( region of culinary delight : promoting local food specialities; quality standards set by the AgrarMarkt Austria). Some of the educational programmes are carried out in cooperation with the nature park and imply activities raising awareness for the natural habitat in the area and health related aspects; activities also enrich the touristic programme. Moreover, from an ecological perspective, the cultivation of herbs helps improve the quality of near-natural areas by enabling more diverse agricultural production with less use of pesticides. Flowering plants in particular provide insects with nectar and pollen at different times of the year and thus have the potential to reduce habitat fragmentation. Preserving areas suitable for wild collection and carefully collecting herbs is a suitable way of preserving the diversity of permanent grasslands without changing the type of land use. On the one hand, this represents an increased food supply for insects and, on the other hand, it offers additional income for the local farmers. ",
+        "keywords": []
+    },
+    {
+        "text": "Extreme weather conditions as a result of climate change do not only change the natural vegetation, but also cultivation practices. While some of the herbs are quite robust against climate change, others will need more complex treatment (e.g. irrigation), or will need to be replaced by other varieties. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Traditional and Innovative.",
+        "keywords": [
+            {
+                "originalKey": "Extreme weather",
+                "original_value": "Extreme weather",
+                "Wikidata_ID": "Q1277161"
+            },
+            {
+                "originalKey": "weather conditions",
+                "original_value": "Weather",
+                "Wikidata_ID": "Q11663"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "do",
+                "original_value": "Oxygen saturation",
+                "Wikidata_ID": "Q6294669"
+            },
+            {
+                "originalKey": "natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "vegetation",
+                "original_value": "Vegetation",
+                "Wikidata_ID": "Q187997"
+            },
+            {
+                "originalKey": "cultivation",
+                "original_value": "Horticulture",
+                "Wikidata_ID": "Q48803"
+            },
+            {
+                "originalKey": "herbs",
+                "original_value": "Herbaceous plant",
+                "Wikidata_ID": "Q190903"
+            },
+            {
+                "originalKey": "robust",
+                "original_value": "Paranthropus",
+                "Wikidata_ID": "Q111463"
+            },
+            {
+                "originalKey": "others",
+                "original_value": "Spirometry",
+                "Wikidata_ID": "Q653305"
+            },
+            {
+                "originalKey": "will",
+                "original_value": "Free will",
+                "Wikidata_ID": "Q9476"
+            },
+            {
+                "originalKey": "complex",
+                "original_value": "Complex system",
+                "Wikidata_ID": "Q854457"
+            },
+            {
+                "originalKey": "treatment",
+                "original_value": "Sewage treatment",
+                "Wikidata_ID": "Q221275"
+            },
+            {
+                "originalKey": "irrigation",
+                "original_value": "Irrigation",
+                "Wikidata_ID": "Q11453"
+            },
+            {
+                "originalKey": "varieties",
+                "original_value": "Variety (botany)",
+                "Wikidata_ID": "Q767728"
+            },
+            {
+                "originalKey": "Overall",
+                "original_value": "Overall",
+                "Wikidata_ID": "Q13383825"
+            },
+            {
+                "originalKey": "type",
+                "original_value": "Movable type",
+                "Wikidata_ID": "Q426853"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "Challenge (TV channel)",
+                "Wikidata_ID": "Q5068886"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current",
+                "original_value": "Ocean current",
+                "Wikidata_ID": "Q129558"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Prediction",
+                "Wikidata_ID": "Q748250"
+            },
+            {
+                "originalKey": "classified",
+                "original_value": "Soil classification",
+                "Wikidata_ID": "Q386963"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "text": "The type of innovation of this VC (Value Chain) is Endogenous and Exogenous. The VC is particularly innovative in terms of products: they offer beside traditional food products made from herbs (e.g. tea, herbal salt, pure herbs), they created different spice mixes, liquor, syrups, and sweets with birch sugar. Moreover, they produce soaps and creams as well as incense materials. The innovation is related to New products, New processes and New marketing strategies. The land use systems involved are Natural land. The local assets include Natural and cultural.",
+        "keywords": [
+            {
+                "originalKey": "type",
+                "original_value": "Movable type",
+                "Wikidata_ID": "Q426853"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogeny (biology)",
+                "Wikidata_ID": "Q285982"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogeny",
+                "Wikidata_ID": "Q293000"
+            },
+            {
+                "originalKey": "innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "terms",
+                "original_value": "Window",
+                "Wikidata_ID": "Q35473"
+            },
+            {
+                "originalKey": "products",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "traditional food",
+                "original_value": "Traditional food",
+                "Wikidata_ID": "Q19708506"
+            },
+            {
+                "originalKey": "food products",
+                "original_value": "Food",
+                "Wikidata_ID": "Q2095"
+            },
+            {
+                "originalKey": "herbs",
+                "original_value": "Herb",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "herbal",
+                "original_value": "Herbalism",
+                "Wikidata_ID": "Q861699"
+            },
+            {
+                "originalKey": "salt",
+                "original_value": "Salt",
+                "Wikidata_ID": "Q11254"
+            },
+            {
+                "originalKey": "pure",
+                "original_value": "Basic research",
+                "Wikidata_ID": "Q964754"
+            },
+            {
+                "originalKey": "spice",
+                "original_value": "Spice",
+                "Wikidata_ID": "Q42527"
+            },
+            {
+                "originalKey": "spice mixes",
+                "original_value": "Spice mix",
+                "Wikidata_ID": "Q1521067"
+            },
+            {
+                "originalKey": "liquor",
+                "original_value": "Distilled beverage",
+                "Wikidata_ID": "Q56139"
+            },
+            {
+                "originalKey": "syrups",
+                "original_value": "Syrup",
+                "Wikidata_ID": "Q6584340"
+            },
+            {
+                "originalKey": "sweets",
+                "original_value": "Candy",
+                "Wikidata_ID": "Q185583"
+            },
+            {
+                "originalKey": "birch",
+                "original_value": "Birch",
+                "Wikidata_ID": "Q25243"
+            },
+            {
+                "originalKey": "birch sugar",
+                "original_value": "Xylitol",
+                "Wikidata_ID": "Q212093"
+            },
+            {
+                "originalKey": "sugar",
+                "original_value": "Sugar",
+                "Wikidata_ID": "Q11002"
+            },
+            {
+                "originalKey": "produce",
+                "original_value": "Produce",
+                "Wikidata_ID": "Q1913301"
+            },
+            {
+                "originalKey": "soaps",
+                "original_value": "Soap",
+                "Wikidata_ID": "Q34396"
+            },
+            {
+                "originalKey": "creams",
+                "original_value": "Cream",
+                "Wikidata_ID": "Q13228"
+            },
+            {
+                "originalKey": "well",
+                "original_value": "Water well",
+                "Wikidata_ID": "Q43483"
+            },
+            {
+                "originalKey": "incense",
+                "original_value": "Incense",
+                "Wikidata_ID": "Q273131"
+            },
+            {
+                "originalKey": "materials",
+                "original_value": "Chemical substance",
+                "Wikidata_ID": "Q79529"
+            },
+            {
+                "originalKey": "processes",
+                "original_value": "Systems engineering",
+                "Wikidata_ID": "Q682496"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "systems",
+                "original_value": "System",
+                "Wikidata_ID": "Q58778"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural rubber",
+                "Wikidata_ID": "Q131877"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local food",
+                "Wikidata_ID": "Q2674120"
+            },
+            {
+                "originalKey": "assets",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "text": "Products made from herbs are produced in many other areas in the Austrian mountainous regions as well.",
+        "keywords": [
+            {
+                "originalKey": "Products",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "herbs",
+                "original_value": "Herb",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "produced",
+                "original_value": "Hip hop production",
+                "Wikidata_ID": "Q84432874"
+            },
+            {
+                "originalKey": "Austrian",
+                "original_value": "Austrian cuisine",
+                "Wikidata_ID": "Q42029"
+            },
+            {
+                "originalKey": "mountainous",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "regions",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "well",
+                "original_value": "Water well",
+                "Wikidata_ID": "Q43483"
+            }
+        ]
+    }
+]
