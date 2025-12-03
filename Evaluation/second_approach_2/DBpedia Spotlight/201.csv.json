@@ -1,0 +1,290 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "NMK",
+                "original_value": "NMK (company)",
+                "DBpedia_URI": "http://dbpedia.org/resource/NMK_(company)",
+                "Wikidata_ID": "Q11235745"
+            },
+            {
+                "originalKey": "The process",
+                "original_value": "Memphis Bleek",
+                "DBpedia_URI": "http://dbpedia.org/resource/Memphis_Bleek",
+                "Wikidata_ID": "Q129747"
+            },
+            {
+                "originalKey": "tobacco",
+                "original_value": "Tobacco",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tobacco",
+                "Wikidata_ID": "Q1566"
+            },
+            {
+                "originalKey": "Prilep",
+                "original_value": "Prilep",
+                "DBpedia_URI": "http://dbpedia.org/resource/Prilep",
+                "Wikidata_ID": "Q157032"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Province of Vercelli",
+                "DBpedia_URI": "http://dbpedia.org/resource/Province_of_Vercelli",
+                "Wikidata_ID": "Q15096"
+            },
+            {
+                "originalKey": "Republic",
+                "original_value": "Republic of Ireland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Republic_of_Ireland",
+                "Wikidata_ID": "Q20283873"
+            },
+            {
+                "originalKey": "North Macedonia",
+                "original_value": "North Macedonia",
+                "DBpedia_URI": "http://dbpedia.org/resource/North_Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "municipalities",
+                "original_value": "Municipality",
+                "DBpedia_URI": "http://dbpedia.org/resource/Municipality",
+                "Wikidata_ID": "Q515"
+            },
+            {
+                "originalKey": "Berovo",
+                "original_value": "Berovo",
+                "DBpedia_URI": "http://dbpedia.org/resource/Berovo",
+                "Wikidata_ID": "Q20933263"
+            },
+            {
+                "originalKey": "Pehchevo",
+                "original_value": "Pehčevo",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pehčevo",
+                "Wikidata_ID": "Q162952"
+            },
+            {
+                "originalKey": "Two rivers",
+                "original_value": "Kobayakawa Takakage",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kobayakawa_Takakage",
+                "Wikidata_ID": "Q1143508"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "original_value": "Bregalnica",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bregalnica",
+                "Wikidata_ID": "Q849296"
+            },
+            {
+                "originalKey": "Strumica",
+                "original_value": "Strumica",
+                "DBpedia_URI": "http://dbpedia.org/resource/Strumica",
+                "Wikidata_ID": "Q48814"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Republic",
+                "original_value": "Roman Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Roman_Republic",
+                "Wikidata_ID": "Q17167"
+            },
+            {
+                "originalKey": "Macedonia",
+                "original_value": "North Macedonia",
+                "DBpedia_URI": "http://dbpedia.org/resource/North_Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "tobacco",
+                "original_value": "Tobacco",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tobacco",
+                "Wikidata_ID": "Q1566"
+            },
+            {
+                "originalKey": "labor force",
+                "original_value": "Workforce",
+                "DBpedia_URI": "http://dbpedia.org/resource/Workforce",
+                "Wikidata_ID": "Q13440398"
+            },
+            {
+                "originalKey": "Macedonian",
+                "original_value": "Macedonian language",
+                "DBpedia_URI": "http://dbpedia.org/resource/Macedonian_language",
+                "Wikidata_ID": "Q9296"
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "oriental tobacco",
+                "original_value": "Turkish tobacco",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkish_tobacco",
+                "Wikidata_ID": "Q4357899"
+            },
+            {
+                "originalKey": "The reason",
+                "original_value": "The Reason (Hoobastank song)",
+                "DBpedia_URI": "http://dbpedia.org/resource/The_Reason_(Hoobastank_song)",
+                "Wikidata_ID": "Q1025631"
+            },
+            {
+                "originalKey": "tobacco",
+                "original_value": "Tobacco",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tobacco",
+                "Wikidata_ID": "Q1566"
+            },
+            {
+                "originalKey": "smoking",
+                "original_value": "Smoking",
+                "DBpedia_URI": "http://dbpedia.org/resource/Smoking",
+                "Wikidata_ID": "Q662860"
+            },
+            {
+                "originalKey": "soil",
+                "original_value": "Soil",
+                "DBpedia_URI": "http://dbpedia.org/resource/Soil",
+                "Wikidata_ID": "Q36133"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    }
+]
