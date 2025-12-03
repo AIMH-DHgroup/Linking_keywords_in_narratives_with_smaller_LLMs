@@ -1,6 +1,7 @@
 This repository contains all the resources required for an experiment aimed at extracting keywords from textual descriptions using small open-source LLMs and linking them to Wikidata to populate a Knowledge Graph.
 
-We selected a dataset from the CSV files collected within the MOuntain Valorisation through INterconnectedness and Green growth (MOVING) Horizon 2020 project. (https://www.moving-h2020.eu/)
+We selected a dataset from the CSV files collected within the MOuntain Valorisation through INterconnectedness and Green growth (MOVING) Horizon 2020 project. (https://www.moving-h2020.eu/).
+
 Each CSV file contains a textual description of an european mountain value chain. Then, a gold
 standard was created in which the keywords mentioned in the textual descriptions and
 their corresponding Wikidata QIDs were manually annotated.
