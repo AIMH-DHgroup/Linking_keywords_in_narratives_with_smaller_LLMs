@@ -1,0 +1,137 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q438"
+            },
+            {
+                "originalKey": "Engadiner",
+                "Wikidata_ID": "Q1101444"
+            },
+            {
+                "originalKey": "Spiegelschaf",
+                "Wikidata_ID": "Q1101445"
+            },
+            {
+                "originalKey": "Nera Verzasca",
+                "Wikidata_ID": "Q1101446"
+            },
+            {
+                "originalKey": "Capra Grigia",
+                "Wikidata_ID": "Q1101447"
+            },
+            {
+                "originalKey": "Black Alpine Pig",
+                "Wikidata_ID": "Q1101448"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "reference mountain chain",
+                "Wikidata_ID": "Q1113894"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "Wikidata_ID": "Q13447"
+            }
+        ]
+    },
+    {
+        "keywords": []
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q515"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q27591"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q134555"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q11132"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q143"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q144"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q5157"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q27551"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "old traditional breeds",
+                "Wikidata_ID": "Q134"
+            },
+            {
+                "originalKey": "farmer",
+                "Wikidata_ID": "Q1395"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "veganism",
+                "Wikidata_ID": "Q40694"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1131114"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q113144"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q131"
+            },
+            {
+                "originalKey": "old animal breeds",
+                "Wikidata_ID": "Q164"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q1345"
+            }
+        ]
+    }
+]
