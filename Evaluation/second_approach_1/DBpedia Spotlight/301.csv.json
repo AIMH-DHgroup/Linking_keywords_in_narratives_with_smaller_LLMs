@@ -1,0 +1,454 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "UCO",
+                "original_value": "University of Central Oklahoma",
+                "DBpedia_URI": "http://dbpedia.org/resource/University_of_Central_Oklahoma",
+                "Wikidata_ID": "Q3275637"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Idaho",
+                "DBpedia_URI": "http://dbpedia.org/resource/Idaho",
+                "Wikidata_ID": "Q1221"
+            },
+            {
+                "originalKey": "SCA",
+                "original_value": "Service Component Architecture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Service_Component_Architecture",
+                "Wikidata_ID": "Q589893"
+            },
+            {
+                "originalKey": "sour milk cheese",
+                "original_value": "Acid-set cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Acid-set_cheese",
+                "Wikidata_ID": "Q2227260"
+            },
+            {
+                "originalKey": "cow",
+                "original_value": "Cattle",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cattle",
+                "Wikidata_ID": "Q19610691"
+            },
+            {
+                "originalKey": "milk",
+                "original_value": "Milk",
+                "DBpedia_URI": "http://dbpedia.org/resource/Milk",
+                "Wikidata_ID": "Q8495"
+            },
+            {
+                "originalKey": "rennet",
+                "original_value": "Rennet",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rennet",
+                "Wikidata_ID": "Q326900"
+            },
+            {
+                "originalKey": "bacteria",
+                "original_value": "Bacteria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bacteria",
+                "Wikidata_ID": "Q10876"
+            },
+            {
+                "originalKey": "coagulation",
+                "original_value": "Curd",
+                "DBpedia_URI": "http://dbpedia.org/resource/Curd",
+                "Wikidata_ID": "Q622563"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "fermented",
+                "original_value": "Fermented milk products",
+                "DBpedia_URI": "http://dbpedia.org/resource/Fermented_milk_products",
+                "Wikidata_ID": "Q3506176"
+            },
+            {
+                "originalKey": "caraway seeds",
+                "original_value": "Caraway",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caraway",
+                "Wikidata_ID": "Q26811"
+            },
+            {
+                "originalKey": "fermentation",
+                "original_value": "Fermentation in food processing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Fermentation_in_food_processing",
+                "Wikidata_ID": "Q18274940"
+            },
+            {
+                "originalKey": "cream",
+                "original_value": "Cream",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cream",
+                "Wikidata_ID": "Q13228"
+            },
+            {
+                "originalKey": "sour cream",
+                "original_value": "Sour cream",
+                "DBpedia_URI": "http://dbpedia.org/resource/Sour_cream",
+                "Wikidata_ID": "Q840171"
+            },
+            {
+                "originalKey": "butter",
+                "original_value": "Butter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Butter",
+                "Wikidata_ID": "Q34172"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Province of Vercelli",
+                "DBpedia_URI": "http://dbpedia.org/resource/Province_of_Vercelli",
+                "Wikidata_ID": "Q15096"
+            },
+            {
+                "originalKey": "Scandes",
+                "original_value": "Scandinavian Mountains",
+                "DBpedia_URI": "http://dbpedia.org/resource/Scandinavian_Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Lesja",
+                "original_value": "Lesja",
+                "DBpedia_URI": "http://dbpedia.org/resource/Lesja",
+                "Wikidata_ID": "Q488405"
+            },
+            {
+                "originalKey": "altitude",
+                "original_value": "Height above sea level",
+                "DBpedia_URI": "http://dbpedia.org/resource/Height_above_sea_level",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "Lesjaskogsvatnet",
+                "original_value": "Lesjaskogsvatnet",
+                "DBpedia_URI": "http://dbpedia.org/resource/Lesjaskogsvatnet",
+                "Wikidata_ID": "Q1820743"
+            },
+            {
+                "originalKey": "Rauma",
+                "original_value": "Rauma Line",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rauma_Line",
+                "Wikidata_ID": "Q402345"
+            },
+            {
+                "originalKey": "Gudbrandsdalslågen",
+                "original_value": "Gudbrandsdalslågen",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gudbrandsdalslågen",
+                "Wikidata_ID": "Q927499"
+            },
+            {
+                "originalKey": "municipality",
+                "original_value": "Municipalities of Mexico",
+                "DBpedia_URI": "http://dbpedia.org/resource/Municipalities_of_Mexico",
+                "Wikidata_ID": "Q1952852"
+            },
+            {
+                "originalKey": "treeline",
+                "original_value": "Tree line",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tree_line",
+                "Wikidata_ID": "Q207762"
+            },
+            {
+                "originalKey": "habitat",
+                "original_value": "Habitat",
+                "DBpedia_URI": "http://dbpedia.org/resource/Habitat",
+                "Wikidata_ID": "Q52105"
+            },
+            {
+                "originalKey": "Norwegian",
+                "original_value": "Norway",
+                "DBpedia_URI": "http://dbpedia.org/resource/Norway",
+                "Wikidata_ID": "Q11992660"
+            },
+            {
+                "originalKey": "trout",
+                "original_value": "Trout",
+                "DBpedia_URI": "http://dbpedia.org/resource/Trout",
+                "Wikidata_ID": "Q2258881"
+            },
+            {
+                "originalKey": "masl",
+                "original_value": "Height above sea level",
+                "DBpedia_URI": "http://dbpedia.org/resource/Height_above_sea_level",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "summer",
+                "original_value": "Summer",
+                "DBpedia_URI": "http://dbpedia.org/resource/Summer",
+                "Wikidata_ID": "Q1313"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "DBpedia_URI": "http://dbpedia.org/resource/Livestock",
+                "Wikidata_ID": "Q103459"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "determinant",
+                "original_value": "Determinant",
+                "DBpedia_URI": "http://dbpedia.org/resource/Determinant",
+                "Wikidata_ID": "Q178546"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "The natural",
+                "original_value": "The Natural",
+                "DBpedia_URI": "http://dbpedia.org/resource/The_Natural",
+                "Wikidata_ID": "Q7753243"
+            },
+            {
+                "originalKey": "asset",
+                "original_value": "Asset",
+                "DBpedia_URI": "http://dbpedia.org/resource/Asset",
+                "Wikidata_ID": "Q46737"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Agricultural cooperative",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agricultural_cooperative",
+                "Wikidata_ID": "Q2996615"
+            },
+            {
+                "originalKey": "BA",
+                "original_value": "Bachelor of Arts",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bachelor_of_Arts",
+                "Wikidata_ID": "Q1765120"
+            },
+            {
+                "originalKey": "Innlandet",
+                "original_value": "Innlandet",
+                "DBpedia_URI": "http://dbpedia.org/resource/Innlandet",
+                "Wikidata_ID": "Q56404886"
+            },
+            {
+                "originalKey": "SA",
+                "original_value": "South Africa",
+                "DBpedia_URI": "http://dbpedia.org/resource/South_Africa",
+                "Wikidata_ID": "Q258"
+            },
+            {
+                "originalKey": "traditional knowledge",
+                "original_value": "Traditional knowledge",
+                "DBpedia_URI": "http://dbpedia.org/resource/Traditional_knowledge",
+                "Wikidata_ID": "Q1428168"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "butter",
+                "original_value": "Butter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Butter",
+                "Wikidata_ID": "Q34172"
+            },
+            {
+                "originalKey": "cattle",
+                "original_value": "Cattle",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cattle",
+                "Wikidata_ID": "Q19610691"
+            },
+            {
+                "originalKey": "ecological system",
+                "original_value": "Ecosystem",
+                "DBpedia_URI": "http://dbpedia.org/resource/Ecosystem",
+                "Wikidata_ID": "Q37813"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "industrial",
+                "original_value": "Manufacturing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "dairies",
+                "original_value": "Dairy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Dairy",
+                "Wikidata_ID": "Q637776"
+            },
+            {
+                "originalKey": "artisanal cheese",
+                "original_value": "Artisan cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Artisan_cheese",
+                "Wikidata_ID": "Q4801204"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Grassland",
+                "Wikidata_ID": "Q1006733"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Etnedal",
+                "original_value": "Etnedal",
+                "DBpedia_URI": "http://dbpedia.org/resource/Etnedal",
+                "Wikidata_ID": "Q488049"
+            }
+        ]
+    }
+]

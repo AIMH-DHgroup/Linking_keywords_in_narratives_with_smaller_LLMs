@@ -1,0 +1,298 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identity document",
+                "DBpedia_URI": "http://dbpedia.org/resource/Identity_document",
+                "Wikidata_ID": "Q47988"
+            },
+            {
+                "originalKey": "social cohesion",
+                "original_value": "Group cohesiveness",
+                "DBpedia_URI": "http://dbpedia.org/resource/Group_cohesiveness",
+                "Wikidata_ID": "Q553270"
+            },
+            {
+                "originalKey": "municipality",
+                "original_value": "Municipalities of Switzerland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Municipalities_of_Switzerland",
+                "Wikidata_ID": "Q70208"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "olive",
+                "original_value": "Olive",
+                "DBpedia_URI": "http://dbpedia.org/resource/Olive",
+                "Wikidata_ID": "Q37083"
+            },
+            {
+                "originalKey": "seasonality",
+                "original_value": "Seasonality",
+                "DBpedia_URI": "http://dbpedia.org/resource/Seasonality",
+                "Wikidata_ID": "Q2111082"
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "perception",
+                "original_value": "Perception",
+                "DBpedia_URI": "http://dbpedia.org/resource/Perception",
+                "Wikidata_ID": "Q160402"
+            },
+            {
+                "originalKey": "social cohesion",
+                "original_value": "Group cohesiveness",
+                "DBpedia_URI": "http://dbpedia.org/resource/Group_cohesiveness",
+                "Wikidata_ID": "Q553270"
+            },
+            {
+                "originalKey": "hires",
+                "original_value": "W. M. Keck Observatory",
+                "DBpedia_URI": "http://dbpedia.org/resource/W._M._Keck_Observatory",
+                "Wikidata_ID": "Q210997"
+            },
+            {
+                "originalKey": "informal sector",
+                "original_value": "Informal economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Informal_economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "informal economy",
+                "original_value": "Informal economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Informal_economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "multilevel governance",
+                "original_value": "Multi-level governance",
+                "DBpedia_URI": "http://dbpedia.org/resource/Multi-level_governance",
+                "Wikidata_ID": "Q1459305"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "municipality",
+                "original_value": "Municipality",
+                "DBpedia_URI": "http://dbpedia.org/resource/Municipality",
+                "Wikidata_ID": "Q515"
+            },
+            {
+                "originalKey": "Provincial Council",
+                "original_value": "Local government in Fiji",
+                "DBpedia_URI": "http://dbpedia.org/resource/Local_government_in_Fiji",
+                "Wikidata_ID": "Q1062445"
+            },
+            {
+                "originalKey": "informal economy",
+                "original_value": "Informal economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Informal_economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "civil society",
+                "original_value": "Civil society",
+                "DBpedia_URI": "http://dbpedia.org/resource/Civil_society",
+                "Wikidata_ID": "Q181865"
+            },
+            {
+                "originalKey": "mutual aid",
+                "original_value": "Benefit society",
+                "DBpedia_URI": "http://dbpedia.org/resource/Benefit_society",
+                "Wikidata_ID": "Q1445536"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Ageing",
+                "original_value": "Ageing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Ageing",
+                "Wikidata_ID": "Q2070979"
+            },
+            {
+                "originalKey": "replacement rate",
+                "original_value": "Total fertility rate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Total_fertility_rate",
+                "Wikidata_ID": "Q285897"
+            },
+            {
+                "originalKey": "informal economy",
+                "original_value": "Informal economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Informal_economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "public-private partnerships",
+                "original_value": "Public–private partnership",
+                "DBpedia_URI": "http://dbpedia.org/resource/Public–private_partnership",
+                "Wikidata_ID": "Q221096"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "social cohesion",
+                "original_value": "Group cohesiveness",
+                "DBpedia_URI": "http://dbpedia.org/resource/Group_cohesiveness",
+                "Wikidata_ID": "Q553270"
+            }
+        ]
+    }
+]

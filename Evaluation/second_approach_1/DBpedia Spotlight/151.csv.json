@@ -1,0 +1,366 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identity document",
+                "DBpedia_URI": "http://dbpedia.org/resource/Identity_document",
+                "Wikidata_ID": "Q47988"
+            },
+            {
+                "originalKey": "IT",
+                "original_value": "Information technology",
+                "DBpedia_URI": "http://dbpedia.org/resource/Information_technology",
+                "Wikidata_ID": "Q11661"
+            },
+            {
+                "originalKey": "meat",
+                "original_value": "Meat",
+                "DBpedia_URI": "http://dbpedia.org/resource/Meat",
+                "Wikidata_ID": "Q10990"
+            },
+            {
+                "originalKey": "cured meat",
+                "original_value": "Curing (food preservation)",
+                "DBpedia_URI": "http://dbpedia.org/resource/Curing_(food_preservation)",
+                "Wikidata_ID": "Q1503716"
+            },
+            {
+                "originalKey": "supply chain",
+                "original_value": "Supply chain",
+                "DBpedia_URI": "http://dbpedia.org/resource/Supply_chain",
+                "Wikidata_ID": "Q1824206"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Province of Vercelli",
+                "DBpedia_URI": "http://dbpedia.org/resource/Province_of_Vercelli",
+                "Wikidata_ID": "Q15096"
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Apennine Mountains",
+                "DBpedia_URI": "http://dbpedia.org/resource/Apennine_Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan",
+                "original_value": "Tuscany",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tuscany",
+                "Wikidata_ID": "Q1273"
+            },
+            {
+                "originalKey": "Emilian",
+                "original_value": "Emilian dialects",
+                "DBpedia_URI": "http://dbpedia.org/resource/Emilian_dialects",
+                "Wikidata_ID": "Q1057898"
+            },
+            {
+                "originalKey": "Sambuca Pistoiese",
+                "original_value": "Sambuca Pistoiese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Sambuca_Pistoiese",
+                "Wikidata_ID": "Q102725"
+            },
+            {
+                "originalKey": "town",
+                "original_value": "Town",
+                "DBpedia_URI": "http://dbpedia.org/resource/Town",
+                "Wikidata_ID": "Q3957"
+            },
+            {
+                "originalKey": "comune",
+                "original_value": "Comune",
+                "DBpedia_URI": "http://dbpedia.org/resource/Comune",
+                "Wikidata_ID": "Q747074"
+            },
+            {
+                "originalKey": "Pistoia",
+                "original_value": "Province of Pistoia",
+                "DBpedia_URI": "http://dbpedia.org/resource/Province_of_Pistoia",
+                "Wikidata_ID": "Q16245"
+            },
+            {
+                "originalKey": "Italian",
+                "original_value": "Italy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Tuscany",
+                "original_value": "Tuscany",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tuscany",
+                "Wikidata_ID": "Q1273"
+            },
+            {
+                "originalKey": "city",
+                "original_value": "City",
+                "DBpedia_URI": "http://dbpedia.org/resource/City",
+                "Wikidata_ID": "Q515"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Bollo",
+                "original_value": "Bollo",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bollo",
+                "Wikidata_ID": "Q4939806"
+            },
+            {
+                "originalKey": "IT",
+                "original_value": "Information technology",
+                "DBpedia_URI": "http://dbpedia.org/resource/Information_technology",
+                "Wikidata_ID": "Q11661"
+            },
+            {
+                "originalKey": "CE",
+                "original_value": "CE marking",
+                "DBpedia_URI": "http://dbpedia.org/resource/CE_marking",
+                "Wikidata_ID": "Q467405"
+            },
+            {
+                "originalKey": "ANAS",
+                "original_value": "Azerbaijan National Academy of Sciences",
+                "DBpedia_URI": "http://dbpedia.org/resource/Azerbaijan_National_Academy_of_Sciences",
+                "Wikidata_ID": "Q129207"
+            },
+            {
+                "originalKey": "Japan",
+                "original_value": "Japan",
+                "DBpedia_URI": "http://dbpedia.org/resource/Japan",
+                "Wikidata_ID": "Q17"
+            },
+            {
+                "originalKey": "PDO",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indications_and_traditional_specialities_in_the_European_Union",
+                "Wikidata_ID": "Q3104453"
+            },
+            {
+                "originalKey": "TUV",
+                "original_value": "Traditional Unionist Voice",
+                "DBpedia_URI": "http://dbpedia.org/resource/Traditional_Unionist_Voice",
+                "Wikidata_ID": "Q985076"
+            },
+            {
+                "originalKey": "German",
+                "original_value": "German language",
+                "DBpedia_URI": "http://dbpedia.org/resource/German_language",
+                "Wikidata_ID": "Q188"
+            },
+            {
+                "originalKey": "ISO 9001",
+                "original_value": "ISO 9000",
+                "DBpedia_URI": "http://dbpedia.org/resource/ISO_9000",
+                "Wikidata_ID": "Q206008"
+            },
+            {
+                "originalKey": "consortium",
+                "original_value": "Consortium",
+                "DBpedia_URI": "http://dbpedia.org/resource/Consortium",
+                "Wikidata_ID": "Q194166"
+            },
+            {
+                "originalKey": "Tutela",
+                "original_value": "Tutela",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tutela",
+                "Wikidata_ID": "Q6154076"
+            },
+            {
+                "originalKey": "PGI",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indications_and_traditional_specialities_in_the_European_Union",
+                "Wikidata_ID": "Q3104453"
+            },
+            {
+                "originalKey": "Bianco",
+                "original_value": "Bianco world map",
+                "DBpedia_URI": "http://dbpedia.org/resource/Bianco_world_map",
+                "Wikidata_ID": "Q17374400"
+            },
+            {
+                "originalKey": "Chianina",
+                "original_value": "Chianina",
+                "DBpedia_URI": "http://dbpedia.org/resource/Chianina",
+                "Wikidata_ID": "Q1071628"
+            },
+            {
+                "originalKey": "beef",
+                "original_value": "Beef cattle",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beef_cattle",
+                "Wikidata_ID": "Q1208989"
+            },
+            {
+                "originalKey": "Umbria",
+                "original_value": "Umbria",
+                "DBpedia_URI": "http://dbpedia.org/resource/Umbria",
+                "Wikidata_ID": "Q1280"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Porretta",
+                "original_value": "Porretta Terme",
+                "DBpedia_URI": "http://dbpedia.org/resource/Porretta_Terme",
+                "Wikidata_ID": "Q30029072"
+            },
+            {
+                "originalKey": "meat",
+                "original_value": "Meat",
+                "DBpedia_URI": "http://dbpedia.org/resource/Meat",
+                "Wikidata_ID": "Q10990"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "organic farm",
+                "original_value": "Organic farming",
+                "DBpedia_URI": "http://dbpedia.org/resource/Organic_farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            }
+        ]
+    }
+]
