@@ -1,0 +1,484 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identity document",
+                "DBpedia_URI": "http://dbpedia.org/resource/Identity_document",
+                "Wikidata_ID": "Q47988"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "DBpedia_URI": "http://dbpedia.org/resource/United_Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Welsh",
+                "original_value": "Welsh language",
+                "DBpedia_URI": "http://dbpedia.org/resource/Welsh_language",
+                "Wikidata_ID": "Q9309"
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly_cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "PGI",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indications_and_traditional_specialities_in_the_European_Union",
+                "Wikidata_ID": "Q3104453"
+            },
+            {
+                "originalKey": "English",
+                "original_value": "English language",
+                "DBpedia_URI": "http://dbpedia.org/resource/English_language",
+                "Wikidata_ID": "Q1860"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "West Wales",
+                "original_value": "West Wales",
+                "DBpedia_URI": "http://dbpedia.org/resource/West_Wales",
+                "Wikidata_ID": "Q3094812"
+            },
+            {
+                "originalKey": "NUTS 2",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "original_value": "Caerphilly County Borough",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly_County_Borough",
+                "Wikidata_ID": "Q748065"
+            },
+            {
+                "originalKey": "Wales",
+                "original_value": "Wales",
+                "DBpedia_URI": "http://dbpedia.org/resource/Wales",
+                "Wikidata_ID": "Q25"
+            },
+            {
+                "originalKey": "Cardiff",
+                "original_value": "Cardiff",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cardiff",
+                "Wikidata_ID": "Q10690"
+            },
+            {
+                "originalKey": "Newport",
+                "original_value": "Newport RFC",
+                "DBpedia_URI": "http://dbpedia.org/resource/Newport_RFC",
+                "Wikidata_ID": "Q1521264"
+            },
+            {
+                "originalKey": "industrial",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "unemployment",
+                "original_value": "Unemployment",
+                "DBpedia_URI": "http://dbpedia.org/resource/Unemployment",
+                "Wikidata_ID": "Q41171"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly_cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "original_value": "Caerphilly",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly",
+                "Wikidata_ID": "Q909119"
+            },
+            {
+                "originalKey": "mass",
+                "original_value": "Mass",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mass",
+                "Wikidata_ID": "Q11423"
+            },
+            {
+                "originalKey": "English",
+                "original_value": "England",
+                "DBpedia_URI": "http://dbpedia.org/resource/England",
+                "Wikidata_ID": "Q21"
+            },
+            {
+                "originalKey": "Somerset",
+                "original_value": "Somerset",
+                "DBpedia_URI": "http://dbpedia.org/resource/Somerset",
+                "Wikidata_ID": "Q23157"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "original_value": "Wiltshire",
+                "DBpedia_URI": "http://dbpedia.org/resource/Wiltshire",
+                "Wikidata_ID": "Q21694746"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "town",
+                "original_value": "Town",
+                "DBpedia_URI": "http://dbpedia.org/resource/Town",
+                "Wikidata_ID": "Q3957"
+            },
+            {
+                "originalKey": "gold awards",
+                "original_value": "Gold Awards",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gold_Awards",
+                "Wikidata_ID": "Q8068407"
+            },
+            {
+                "originalKey": "PGI",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indications_and_traditional_specialities_in_the_European_Union",
+                "Wikidata_ID": "Q3104453"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly_cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "dairy cattle",
+                "original_value": "Dairy cattle",
+                "DBpedia_URI": "http://dbpedia.org/resource/Dairy_cattle",
+                "Wikidata_ID": "Q2915"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "caerphilly",
+                "original_value": "Caerphilly",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly",
+                "Wikidata_ID": "Q909119"
+            },
+            {
+                "originalKey": "traditional knowledge",
+                "original_value": "Traditional knowledge",
+                "DBpedia_URI": "http://dbpedia.org/resource/Traditional_knowledge",
+                "Wikidata_ID": "Q1428168"
+            },
+            {
+                "originalKey": "cultural heritage",
+                "original_value": "Cultural heritage",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cultural_heritage",
+                "Wikidata_ID": "Q210272"
+            },
+            {
+                "originalKey": "England",
+                "original_value": "England",
+                "DBpedia_URI": "http://dbpedia.org/resource/England",
+                "Wikidata_ID": "Q21"
+            },
+            {
+                "originalKey": "cultural history",
+                "original_value": "Cultural history",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cultural_history",
+                "Wikidata_ID": "Q858517"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "coal",
+                "original_value": "Coal mining",
+                "DBpedia_URI": "http://dbpedia.org/resource/Coal_mining",
+                "Wikidata_ID": "Q12880211"
+            },
+            {
+                "originalKey": "PGI",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indications_and_traditional_specialities_in_the_European_Union",
+                "Wikidata_ID": "Q3104453"
+            },
+            {
+                "originalKey": "Welsh",
+                "original_value": "Welsh language",
+                "DBpedia_URI": "http://dbpedia.org/resource/Welsh_language",
+                "Wikidata_ID": "Q9309"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "England",
+                "original_value": "Kingdom of England",
+                "DBpedia_URI": "http://dbpedia.org/resource/Kingdom_of_England",
+                "Wikidata_ID": "Q179876"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "original_value": "Caerphilly",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly",
+                "Wikidata_ID": "Q909119"
+            },
+            {
+                "originalKey": "mass production",
+                "original_value": "Mass production",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mass_production",
+                "Wikidata_ID": "Q215768"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly_cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "cheesemaking",
+                "original_value": "Cheesemaking",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheesemaking",
+                "Wikidata_ID": "Q1281188"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "town",
+                "original_value": "Town",
+                "DBpedia_URI": "http://dbpedia.org/resource/Town",
+                "Wikidata_ID": "Q3957"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "original_value": "Caerphilly",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly",
+                "Wikidata_ID": "Q909119"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Grassland",
+                "Wikidata_ID": "Q1006733"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "DBpedia_URI": "http://dbpedia.org/resource/Caerphilly_cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Somerset",
+                "original_value": "Somerset",
+                "DBpedia_URI": "http://dbpedia.org/resource/Somerset",
+                "Wikidata_ID": "Q23157"
+            },
+            {
+                "originalKey": "South Somerset",
+                "original_value": "South Somerset",
+                "DBpedia_URI": "http://dbpedia.org/resource/South_Somerset",
+                "Wikidata_ID": "Q1379924"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "original_value": "Wiltshire",
+                "DBpedia_URI": "http://dbpedia.org/resource/Wiltshire",
+                "Wikidata_ID": "Q21694746"
+            },
+            {
+                "originalKey": "England",
+                "original_value": "England",
+                "DBpedia_URI": "http://dbpedia.org/resource/England",
+                "Wikidata_ID": "Q21"
+            }
+        ]
+    }
+]
