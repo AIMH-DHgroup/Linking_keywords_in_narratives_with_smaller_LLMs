@@ -1,0 +1,424 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Viet Cong",
+                "DBpedia_URI": "http://dbpedia.org/resource/Viet_Cong",
+                "Wikidata_ID": "Q174423"
+            },
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Czech_Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identifier",
+                "DBpedia_URI": "http://dbpedia.org/resource/Identifier",
+                "Wikidata_ID": "Q853614"
+            },
+            {
+                "originalKey": "CZ",
+                "original_value": "Czech Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Czech_Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "EU",
+                "original_value": "European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/European_Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "PGI",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indications_and_traditional_specialities_in_the_European_Union",
+                "Wikidata_ID": "Q3104453"
+            },
+            {
+                "originalKey": "Ostrava",
+                "original_value": "Ostrava",
+                "DBpedia_URI": "http://dbpedia.org/resource/Ostrava",
+                "Wikidata_ID": "Q8385"
+            },
+            {
+                "originalKey": "Beskydy",
+                "original_value": "Beskids",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beskids",
+                "Wikidata_ID": "Q215573"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Javorníky",
+                "original_value": "Maple Mountains",
+                "DBpedia_URI": "http://dbpedia.org/resource/Maple_Mountains",
+                "Wikidata_ID": "Q1387301"
+            },
+            {
+                "originalKey": "Beskydy",
+                "original_value": "Beskids",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beskids",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Western Carpathian",
+                "original_value": "Divisions of the Carpathians",
+                "DBpedia_URI": "http://dbpedia.org/resource/Divisions_of_the_Carpathians",
+                "Wikidata_ID": "Q458368"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Vsetín",
+                "original_value": "Vsetín",
+                "DBpedia_URI": "http://dbpedia.org/resource/Vsetín",
+                "Wikidata_ID": "Q513417"
+            },
+            {
+                "originalKey": "protected area",
+                "original_value": "Protected area",
+                "DBpedia_URI": "http://dbpedia.org/resource/Protected_area",
+                "Wikidata_ID": "Q473972"
+            },
+            {
+                "originalKey": "Republic",
+                "original_value": "Republic of Ireland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Republic_of_Ireland",
+                "Wikidata_ID": "Q20283873"
+            },
+            {
+                "originalKey": "asset",
+                "original_value": "Asset",
+                "DBpedia_URI": "http://dbpedia.org/resource/Asset",
+                "Wikidata_ID": "Q46737"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "DBpedia_URI": "http://dbpedia.org/resource/Europe",
+                "Wikidata_ID": "Q18473304"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "perennial",
+                "original_value": "Perennial plant",
+                "DBpedia_URI": "http://dbpedia.org/resource/Perennial_plant",
+                "Wikidata_ID": "Q157957"
+            },
+            {
+                "originalKey": "grassland",
+                "original_value": "Grassland",
+                "DBpedia_URI": "http://dbpedia.org/resource/Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "DBpedia_URI": "http://dbpedia.org/resource/Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "cattle",
+                "original_value": "Cattle",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cattle",
+                "Wikidata_ID": "Q19610691"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "EU",
+                "original_value": "European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/European_Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "Protected Geographical Indication (PGI)",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indications_and_traditional_specialities_in_the_European_Union",
+                "Wikidata_ID": "Q3104453"
+            },
+            {
+                "originalKey": "Beskydy",
+                "original_value": "Beskids",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beskids",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "fruit",
+                "original_value": "Fruit",
+                "DBpedia_URI": "http://dbpedia.org/resource/Fruit",
+                "Wikidata_ID": "Q1364"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Czech_Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Province of Vercelli",
+                "DBpedia_URI": "http://dbpedia.org/resource/Province_of_Vercelli",
+                "Wikidata_ID": "Q15096"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "cake",
+                "original_value": "Cake",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cake",
+                "Wikidata_ID": "Q13276"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "cake",
+                "original_value": "Cake",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cake",
+                "Wikidata_ID": "Q13276"
+            },
+            {
+                "originalKey": "asset",
+                "original_value": "Asset",
+                "DBpedia_URI": "http://dbpedia.org/resource/Asset",
+                "Wikidata_ID": "Q46737"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "cake",
+                "original_value": "Cake",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cake",
+                "Wikidata_ID": "Q13276"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Beskydy",
+                "original_value": "Beskids",
+                "DBpedia_URI": "http://dbpedia.org/resource/Beskids",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Czech",
+                "original_value": "Czech Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Czech_Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Czech_Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "cake",
+                "original_value": "Cake",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cake",
+                "Wikidata_ID": "Q13276"
+            },
+            {
+                "originalKey": "spoiled",
+                "original_value": "Spoiled child",
+                "DBpedia_URI": "http://dbpedia.org/resource/Spoiled_child",
+                "Wikidata_ID": "Q3054155"
+            },
+            {
+                "originalKey": "scone",
+                "original_value": "Scone",
+                "DBpedia_URI": "http://dbpedia.org/resource/Scone",
+                "Wikidata_ID": "Q869660"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "dialect",
+                "original_value": "Dialect",
+                "DBpedia_URI": "http://dbpedia.org/resource/Dialect",
+                "Wikidata_ID": "Q33384"
+            },
+            {
+                "originalKey": "brandy",
+                "original_value": "Brandy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Brandy",
+                "Wikidata_ID": "Q146470"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "DBpedia_URI": "http://dbpedia.org/resource/Czech_Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    }
+]

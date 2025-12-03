@@ -1,0 +1,412 @@
+[
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "DBpedia_URI": "http://dbpedia.org/resource/Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Identity document",
+                "DBpedia_URI": "http://dbpedia.org/resource/Identity_document",
+                "Wikidata_ID": "Q47988"
+            },
+            {
+                "originalKey": "TR",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "tea processing",
+                "original_value": "Tea processing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tea_processing",
+                "Wikidata_ID": "Q7691134"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rize_Province",
+                "Wikidata_ID": "Q2282923"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Agricultural marketing",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agricultural_marketing",
+                "Wikidata_ID": "Q396131"
+            },
+            {
+                "originalKey": "General",
+                "original_value": "General officers in the Confederate States Army",
+                "DBpedia_URI": "http://dbpedia.org/resource/General_officers_in_the_Confederate_States_Army",
+                "Wikidata_ID": "Q4135313"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Black Sea Mountains",
+                "original_value": "Pontic Mountains",
+                "DBpedia_URI": "http://dbpedia.org/resource/Pontic_Mountains",
+                "Wikidata_ID": "Q519263"
+            },
+            {
+                "originalKey": "Güneysu",
+                "original_value": "Güneysu",
+                "DBpedia_URI": "http://dbpedia.org/resource/Güneysu",
+                "Wikidata_ID": "Q2671161"
+            },
+            {
+                "originalKey": "Rize Province",
+                "original_value": "Rize Province",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rize_Province",
+                "Wikidata_ID": "Q2282923"
+            },
+            {
+                "originalKey": "Black Sea Region",
+                "original_value": "Black Sea Region",
+                "DBpedia_URI": "http://dbpedia.org/resource/Black_Sea_Region",
+                "Wikidata_ID": "Q155533"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "subtropical",
+                "original_value": "Humid subtropical climate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Humid_subtropical_climate",
+                "Wikidata_ID": "Q864320"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "temperature",
+                "original_value": "Temperature",
+                "DBpedia_URI": "http://dbpedia.org/resource/Temperature",
+                "Wikidata_ID": "Q11466"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rize_Province",
+                "Wikidata_ID": "Q2282923"
+            },
+            {
+                "originalKey": "city",
+                "original_value": "Cities of Japan",
+                "DBpedia_URI": "http://dbpedia.org/resource/Cities_of_Japan",
+                "Wikidata_ID": "Q494721"
+            },
+            {
+                "originalKey": "The natural",
+                "original_value": "The Natural",
+                "DBpedia_URI": "http://dbpedia.org/resource/The_Natural",
+                "Wikidata_ID": "Q7753243"
+            },
+            {
+                "originalKey": "humidity",
+                "original_value": "Humidity",
+                "DBpedia_URI": "http://dbpedia.org/resource/Humidity",
+                "Wikidata_ID": "Q180600"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimeter",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altimeter",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "DBpedia_URI": "http://dbpedia.org/resource/Population_density",
+                "Wikidata_ID": "Q22856"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "DBpedia_URI": "http://dbpedia.org/resource/Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "DBpedia_URI": "http://dbpedia.org/resource/Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Nomenclature_of_Territorial_Units_for_Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q1959446"
+            },
+            {
+                "originalKey": "Medium",
+                "original_value": "Mediumship",
+                "DBpedia_URI": "http://dbpedia.org/resource/Mediumship",
+                "Wikidata_ID": "Q583271"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rize_Province",
+                "Wikidata_ID": "Q2282923"
+            },
+            {
+                "originalKey": "black tea",
+                "original_value": "Black tea",
+                "DBpedia_URI": "http://dbpedia.org/resource/Black_tea",
+                "Wikidata_ID": "Q203415"
+            },
+            {
+                "originalKey": "Rize Province",
+                "original_value": "Rize Province",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rize_Province",
+                "Wikidata_ID": "Q2282923"
+            },
+            {
+                "originalKey": "climatic",
+                "original_value": "Climate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "altitude",
+                "original_value": "Altitude",
+                "DBpedia_URI": "http://dbpedia.org/resource/Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "Rainforest Alliance",
+                "original_value": "Rainforest Alliance",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rainforest_Alliance",
+                "Wikidata_ID": "Q2034373"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "climatic",
+                "original_value": "Climate",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea in Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tea_in_Turkey",
+                "Wikidata_ID": "Q2979840"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "DBpedia_URI": "http://dbpedia.org/resource/Rize_Province",
+                "Wikidata_ID": "Q2282923"
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "original_value": "Geographical indication",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geographical_indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "Turkish",
+                "original_value": "Turkish language",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkish_language",
+                "Wikidata_ID": "Q256"
+            },
+            {
+                "originalKey": "Turkish culture",
+                "original_value": "Culture of Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Culture_of_Turkey",
+                "Wikidata_ID": "Q1082380"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "logistics",
+                "original_value": "Logistics",
+                "DBpedia_URI": "http://dbpedia.org/resource/Logistics",
+                "Wikidata_ID": "Q177777"
+            },
+            {
+                "originalKey": "geography",
+                "original_value": "Geography",
+                "DBpedia_URI": "http://dbpedia.org/resource/Geography",
+                "Wikidata_ID": "Q1071"
+            },
+            {
+                "originalKey": "climatic change",
+                "original_value": "Climate change",
+                "DBpedia_URI": "http://dbpedia.org/resource/Climate_change",
+                "Wikidata_ID": "Q7942"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "DBpedia_URI": "http://dbpedia.org/resource/Victoria_Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Agricultural land",
+                "DBpedia_URI": "http://dbpedia.org/resource/Agricultural_land",
+                "Wikidata_ID": "Q29346438"
+            }
+        ]
+    },
+    {
+        "keywords": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "DBpedia_URI": "http://dbpedia.org/resource/Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "DBpedia_URI": "http://dbpedia.org/resource/Tea",
+                "Wikidata_ID": "Q6097"
+            }
+        ]
+    }
+]
