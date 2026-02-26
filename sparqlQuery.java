@@ -261,7 +261,7 @@ public class WikidataExplorer2 {
 
 	public static void main(String[] args) throws Exception {
 	/*///////////////////////////////////////
-    use the SPAQL queries to retrieve the wikidata QID from a string contained in the JSON files produced by the LLMs
+    use the SPAQL queries to retrieve the wikidata QID from a string contained in the JSON files produced by the LLMs or NLPHUB
     *///////////////////////////////////////// 
 
 		
@@ -358,4 +358,5 @@ public class WikidataExplorer2 {
 
 	
  
+
 }
